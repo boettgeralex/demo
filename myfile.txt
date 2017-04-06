@@ -1,2 +1,4 @@
 This is my first file.
 Changes to our file, in our own repository.
+Changes to our file, in the clone.
+>>>>>>> cd8059f616080337e60b287bd805da9ebd7ab354
